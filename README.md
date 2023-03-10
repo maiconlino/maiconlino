@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on PHP/Java/Javascript to i9CORP at LIFE CTI company.
 - 📫 How to reach me: maicon@lifecti.com.br
 - 📫 Personal website: https://mhlfsb.me
+- The majority of my contributions on GitHub are not public, but rather in my company LIFE CTI, where I am Director.
 
 
 ## My Skills
